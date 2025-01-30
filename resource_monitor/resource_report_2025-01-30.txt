@@ -1,0 +1,18 @@
+AWS Resources Report - Thu Jan 30 20:06:51 UTC 2025
+===============================
+
+S3 Buckets:
+2025-01-29 13:30:03 651706765886-terraform-states
+2024-12-25 14:11:23 minebucket8179
+
+Lambda Functions:
+{
+    "Functions": []
+}
+
+EC2 Instances:
+i-08b09bdbeb71e6065
+i-0dd7b350cf3fc3e72
+i-01d2bdcbe3b8c2b8a
+
+IAM Users:
