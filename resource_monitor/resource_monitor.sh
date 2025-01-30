@@ -27,4 +27,4 @@ aws iam list-users | jq -r '.Users[].UserName' >> "$OUTPUT_FILE"
 
 # Send email (Replace with actual email)
 mail -s "Daily AWS Resource Report - $(date +%F) this mail is  from ubuntu server" satyakolli6@gmail.com < "$OUTPUT_FILE"
-
+#
